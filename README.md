@@ -1,5 +1,5 @@
 # PytorchStudy
-CNN sentiment classification
+CNN sentiment classification(yoon kim model)
 
 
 학습실행 : python main.py

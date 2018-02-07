@@ -8,6 +8,7 @@ CNN sentiment classification
 
 refer:https://github.com/Shawn1993/cnn-text-classification-pytorch
 
-glove 다운로드
-https://nlp.stanford.edu/projects/glove/
+glove 다운로드 : https://nlp.stanford.edu/projects/glove/
+
 이 모델에는 6B.300d 사용
+
